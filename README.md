@@ -89,7 +89,7 @@ public class EnrolmentSystem {
 
         // Creating two Instructor objects
         Instructor instructor1 = new Instructor("Prof. Tanya Carmela Jovillano", 23, "I001", "Computer Engineering", 80000);
-        Instructor instructor2 = new Instructor("Prof. Sarrahlyn Catimbang", 35, "I002", "Mechanical Engineering", 95000);
+        Instructor instructor2 = new Instructor("Prof. Sarrahlyn Catimbang", 35, "I002", "Computer Engineering", 95000);
 
         // Using the printDetails method to print information for each person
         System.out.println("Details of Student 1:");
